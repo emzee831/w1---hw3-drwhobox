@@ -16,3 +16,11 @@ div{
   padding: 1em;
   background: white;
 }
+
+h3{
+  margin: auto;
+  width: 80%;
+  box-shadow: 0 0 8px dodgerblue;
+  padding: 1em;
+  background: white;
+}
